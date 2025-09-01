@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850071084318",
+    "project_id": "fir-task-2fe2a",
+    "storage_bucket": "fir-task-2fe2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850071084318:android:d16f1cebbc42409c28bd0f",
+        "android_client_info": {
+          "package_name": "com.example.iti2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdxmN6gGw54cuF4K2_d2XmDcCLf2GTzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
